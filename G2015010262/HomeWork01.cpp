@@ -61,4 +61,9 @@ int main()
 	Rectangle Rect03=Rect02;
 
 	return 0;
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> refs/remotes/origin/master
